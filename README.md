@@ -7,7 +7,7 @@ This repo contains the following files and folders which you will use as a start
 
 - `responsive_boilerplate/index.html` 
   - Starting HTML page
-- `responsive_boilerplate/styles.css` 
+- `responsive_boilerplate/main.css` 
   - Starting CSS file with pre-set breakpoints
 - `responsive_boilerplate/img`
   - image folder
